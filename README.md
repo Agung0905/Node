@@ -1,2 +1,2 @@
 # Node
-latihan redux
+latihan Routing
